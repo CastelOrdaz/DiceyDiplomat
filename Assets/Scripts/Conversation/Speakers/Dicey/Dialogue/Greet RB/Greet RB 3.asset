@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: Greet RB 3
+  m_EditorClassIdentifier: 
+  speaker: 1
+  impactedListeners:
+  - id: 2
+    moodImpact:
+    - stat: 4
+      value: 2
+    - stat: 1
+      value: 2
+  topic: Greetings
+  text: I am what you make of me
+  progressInTopic: 1
+  progressesTopic: 0
+  moodCheck: 
+  playedCardCheck: 
+  advancementType: 4
+  dialogueBranches:
+  - {fileID: 11400000, guid: aa8a4d3000d46914da2f5153c9ef9441, type: 2}
+  - {fileID: 11400000, guid: 00693b4a814a0a7418f629f18560bd88, type: 2}
+  - {fileID: 11400000, guid: 161540b67d8f3df4c979bd0eca0c5eb6, type: 2}
+  - {fileID: 11400000, guid: 180753119fa7a1649af018868028f504, type: 2}
+  - {fileID: 11400000, guid: b6d4e8eae831aaa479d13cb26825e392, type: 2}
+  - {fileID: 11400000, guid: d3e5cdc5b1580b44c81a31eae46d6051, type: 2}
+  - {fileID: 11400000, guid: b018a182446becb49a4293fa578c0901, type: 2}
+  - {fileID: 11400000, guid: 9c0828917ee3cf141ad5dc19a8d6c92e, type: 2}
+  - {fileID: 11400000, guid: d8a8d651bd085c84b902b92498ebb3c2, type: 2}
+  - {fileID: 11400000, guid: 29012cc565fb98a4d9a6fce110ade9fe, type: 2}
+  - {fileID: 11400000, guid: 89978eb62659b5245895ae4a27f712ad, type: 2}
+  - {fileID: 11400000, guid: 1c7b1d98a2fae5347901b51f944d493e, type: 2}
+  - {fileID: 11400000, guid: 3aa12870fa69681479934d98a0278c2f, type: 2}
+  - {fileID: 11400000, guid: 552b9b6f513363d419b77fb75d92183f, type: 2}
+  - {fileID: 11400000, guid: a6bacc609408edc429a3469cd799ed4a, type: 2}
+  - {fileID: 11400000, guid: 30747890a65215041abbbfd7ffc64ab1, type: 2}
+  - {fileID: 11400000, guid: 3c79473cc3092074ab2e499e57afce9d, type: 2}
+  - {fileID: 11400000, guid: 89978eb62659b5245895ae4a27f712ad, type: 2}
+  - {fileID: 11400000, guid: 3c79473cc3092074ab2e499e57afce9d, type: 2}
+  cardOptions:
+  - {fileID: 11400000, guid: 4faa758afea18fb45a89cc88a89a3374, type: 2}
+  - {fileID: 11400000, guid: aedd9474a1e0a054a8ca43bccbf9aaa2, type: 2}
+  - {fileID: 11400000, guid: 78acc2c03a15298489b5faf272024cc1, type: 2}
+  - {fileID: 11400000, guid: 3f4144a20fc38bc4c8ec644e044cf2c9, type: 2}

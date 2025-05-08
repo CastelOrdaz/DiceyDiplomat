@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: Greet RB 1
+  m_EditorClassIdentifier: 
+  speaker: 1
+  impactedListeners: []
+  topic: Greetings
+  text: Greetings!
+  progressInTopic: 0
+  moodCheck: 0
+  playedCardCheck: 0
+  advancementType: 1
+  dialogueBranches:
+  - {fileID: 11400000, guid: 80f25800b7adf0b48af5d00ba0109f06, type: 2}
+  - {fileID: 11400000, guid: 00693b4a814a0a7418f629f18560bd88, type: 2}
+  - {fileID: 11400000, guid: 180753119fa7a1649af018868028f504, type: 2}
+  - {fileID: 11400000, guid: 161540b67d8f3df4c979bd0eca0c5eb6, type: 2}
+  - {fileID: 11400000, guid: b6d4e8eae831aaa479d13cb26825e392, type: 2}

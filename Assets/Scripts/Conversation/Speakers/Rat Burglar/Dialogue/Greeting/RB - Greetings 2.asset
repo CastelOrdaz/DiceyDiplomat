@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: RB - Greetings 2
+  m_EditorClassIdentifier: 
+  speaker: 2
+  impactedListeners: []
+  topic: Greetings
+  text: I TOSSED YOU OUT!
+  progressInTopic: 0
+  progressesTopic: 0
+  moodCheck: 
+  playedCardCheck: 
+  advancementType: 1
+  dialogueBranches:
+  - {fileID: 11400000, guid: e6e2f27d0c443db4b98ade536bba7038, type: 2}
+  cardOptions: []

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f5541d052be8141825587cb0f82858, type: 3}
+  m_Name: Generic RB - Affirm Sucker
+  m_EditorClassIdentifier: 
+  cardChecks: 0400000006000000
+  dialogue:
+  - {fileID: 11400000, guid: 1c7b1d98a2fae5347901b51f944d493e, type: 2}
+  - {fileID: 11400000, guid: 3aa12870fa69681479934d98a0278c2f, type: 2}
+  - {fileID: 11400000, guid: 552b9b6f513363d419b77fb75d92183f, type: 2}
+  - {fileID: 11400000, guid: a6bacc609408edc429a3469cd799ed4a, type: 2}
+  - {fileID: 11400000, guid: 30747890a65215041abbbfd7ffc64ab1, type: 2}
+  - {fileID: 11400000, guid: 3c79473cc3092074ab2e499e57afce9d, type: 2}

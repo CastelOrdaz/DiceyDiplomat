@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: Help RB 2 - Affirm 1 - Brick 1
+  m_EditorClassIdentifier: 
+  speaker: 1
+  impactedListeners:
+  - id: 2
+    moodImpact:
+    - stat: 1
+      value: 2
+    - stat: 4
+      value: 2
+    - stat: 2
+      value: 2
+    - stat: 3
+      value: -2
+  topic: Help
+  text: Yes...
+  progressInTopic: 1
+  progressesTopic: 0
+  moodCheck: 02000000
+  playedCardCheck: 04000000
+  advancementType: 2
+  dialogueBranches:
+  - {fileID: 11400000, guid: 2249082091b721e4a91bdfc93d9c4f84, type: 2}
+  - {fileID: 11400000, guid: 5e933f09e0affe3458c223e4382ff5f8, type: 2}
+  - {fileID: 11400000, guid: 7ad457619503ba5459421d78696a79c8, type: 2}
+  - {fileID: 11400000, guid: d8d2ab6ff66774a46871805aef837578, type: 2}
+  - {fileID: 11400000, guid: a35565b2491ec274e9f95f3b2727d6f6, type: 2}
+  - {fileID: 11400000, guid: b57ffea7f5158364fbceab2987347bbb, type: 2}
+  - {fileID: 11400000, guid: 9b221d98c325fd14997c898c1b4441cb, type: 2}
+  cardOptions: []

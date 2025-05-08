@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: Question RB 1 - Twitch 1
+  m_EditorClassIdentifier: 
+  speaker: 1
+  impactedListeners:
+  - id: 2
+    moodImpact:
+    - stat: 1
+      value: 2
+    - stat: 4
+      value: 2
+    - stat: 2
+      value: 1
+  topic: Questioning
+  text: I-I... uh... d-do you... w-what is this?
+  progressInTopic: 0
+  progressesTopic: 0
+  moodCheck: 04000000
+  playedCardCheck: 03000000
+  advancementType: 2
+  dialogueBranches:
+  - {fileID: 11400000, guid: 80173c2aacd341848aa5b420eaf9cee1, type: 2}
+  - {fileID: 11400000, guid: 05b11fc04f4fbd84eb6b348acf77fd21, type: 2}
+  - {fileID: 11400000, guid: 4768f20752f64cb40aaab648e9b64f23, type: 2}
+  - {fileID: 11400000, guid: 3b497694f638757458ee1c6ee66e4c99, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: RB - Over The Wall 1
+  m_EditorClassIdentifier: 
+  speaker: 2
+  impactedListeners: []
+  topic: Over the Wall
+  text: See that wall behind me?
+  progressInTopic: 0
+  progressesTopic: 0
+  moodCheck: 
+  playedCardCheck: 
+  advancementType: 2
+  dialogueBranches:
+  - {fileID: 11400000, guid: 0e1f9aeb3ebf9ff40ad86b9696f20e41, type: 2}
+  - {fileID: 11400000, guid: b8049cd5085d46b448e88658ea46f945, type: 2}
+  - {fileID: 11400000, guid: aa474d9cf55183948b7030f785b29751, type: 2}
+  - {fileID: 11400000, guid: a201a44cbacde0d46995d14747e1966e, type: 2}
+  - {fileID: 11400000, guid: 4cad1f6bf657bcd40a61816cd7a35937, type: 2}
+  - {fileID: 11400000, guid: 3785525b7280f77458da9cd071145e8e, type: 2}
+  cardOptions:
+  - {fileID: 11400000, guid: 4faa758afea18fb45a89cc88a89a3374, type: 2}
+  - {fileID: 11400000, guid: aedd9474a1e0a054a8ca43bccbf9aaa2, type: 2}
+  - {fileID: 11400000, guid: 78acc2c03a15298489b5faf272024cc1, type: 2}
+  - {fileID: 11400000, guid: 3f4144a20fc38bc4c8ec644e044cf2c9, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: RB - Questioned 1 - Angry 2
+  m_EditorClassIdentifier: 
+  speaker: 2
+  impactedListeners:
+  - id: 1
+    moodImpact:
+    - stat: 1
+      value: -2
+  topic: Questioning
+  text: YOU'RE PISSING ME OFF!!!
+  progressInTopic: 0
+  progressesTopic: 1
+  moodCheck: 
+  playedCardCheck: 03000000
+  advancementType: 4
+  dialogueBranches: []
+  cardOptions:
+  - {fileID: 11400000, guid: 3f4144a20fc38bc4c8ec644e044cf2c9, type: 2}
+  - {fileID: 11400000, guid: 6f97ef48db8986d40889df968a8d3db7, type: 2}
+  - {fileID: 11400000, guid: a47de998f24532d468c5a7cdca4663ee, type: 2}
+  - {fileID: 11400000, guid: ef8359bda57b65241a56a6cbba4306af, type: 2}
+  - {fileID: 11400000, guid: 09c317075afc90b4b82ab8162d734750, type: 2}

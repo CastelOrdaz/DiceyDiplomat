@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f5541d052be8141825587cb0f82858, type: 3}
+  m_Name: Generic RB - Probe
+  m_EditorClassIdentifier: 
+  cardChecks: 03000000
+  dialogue:
+  - {fileID: 11400000, guid: 89978eb62659b5245895ae4a27f712ad, type: 2}
+  - {fileID: 11400000, guid: d8a8d651bd085c84b902b92498ebb3c2, type: 2}
+  - {fileID: 11400000, guid: b018a182446becb49a4293fa578c0901, type: 2}
+  - {fileID: 11400000, guid: d3e5cdc5b1580b44c81a31eae46d6051, type: 2}
+  - {fileID: 11400000, guid: 9c0828917ee3cf141ad5dc19a8d6c92e, type: 2}
+  - {fileID: 11400000, guid: 29012cc565fb98a4d9a6fce110ade9fe, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: RB - Stared At 2 - Help 1
+  m_EditorClassIdentifier: 
+  speaker: 2
+  impactedListeners:
+  - id: 1
+    moodImpact:
+    - stat: 1
+      value: -1
+    - stat: 3
+      value: -1
+    - stat: 2
+      value: 2
+    - stat: 4
+      value: 2
+  topic: Help
+  text: The interview ain't lookin' too good...
+  progressInTopic: 1
+  progressesTopic: 0
+  moodCheck: 
+  playedCardCheck: 01000000
+  advancementType: 4
+  dialogueBranches:
+  - {fileID: 11400000, guid: 15acfff00cf80e0498b84dea021507b2, type: 2}
+  cardOptions:
+  - {fileID: 11400000, guid: df96db626f21c6246b1f617a35eea88a, type: 2}
+  - {fileID: 11400000, guid: e4582ec415b458441b155d183002a848, type: 2}
+  - {fileID: 11400000, guid: b946ae3254adc764baa1bd8561d17972, type: 2}
+  - {fileID: 11400000, guid: d40b0a7b682814e45a8e5f2ce46b9c01, type: 2}
+  - {fileID: 11400000, guid: 6c7b256dc5a76154280e4adfb1144360, type: 2}

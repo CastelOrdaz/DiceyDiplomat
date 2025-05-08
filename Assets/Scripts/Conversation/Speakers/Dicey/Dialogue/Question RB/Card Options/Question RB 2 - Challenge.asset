@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f5541d052be8141825587cb0f82858, type: 3}
+  m_Name: Question RB 2 - Challenge
+  m_EditorClassIdentifier: 
+  cardChecks: 05000000
+  dialogue:
+  - {fileID: 11400000, guid: 2719f44cb0883b649830b7bf2b452719, type: 2}
+  - {fileID: 11400000, guid: 57f709d861ce1e142b85f9c183563e66, type: 2}
+  - {fileID: 11400000, guid: 3cb0595efb7bf3f4a8279cb2655bbf62, type: 2}
+  - {fileID: 11400000, guid: b897d457b2d75224bacf0827f91e4135, type: 2}
+  - {fileID: 11400000, guid: 19e33f81d6a31aa49988771e42b22bc2, type: 2}
+  - {fileID: 11400000, guid: 10f65d11489d98748900a492e6c01acd, type: 2}

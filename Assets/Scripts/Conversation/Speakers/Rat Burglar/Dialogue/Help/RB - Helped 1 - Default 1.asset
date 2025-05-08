@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313326d05a8454a4391d081b705a47ef, type: 3}
+  m_Name: RB - Helped 1 - Default 1
+  m_EditorClassIdentifier: 
+  speaker: 2
+  impactedListeners:
+  - id: 1
+    moodImpact:
+    - stat: 2
+      value: 3
+  topic: Help
+  text: You really wanna help me?
+  progressInTopic: 0
+  progressesTopic: 1
+  moodCheck: 
+  playedCardCheck: 0400000005000000
+  advancementType: 4
+  dialogueBranches: []
+  cardOptions:
+  - {fileID: 11400000, guid: d40b0a7b682814e45a8e5f2ce46b9c01, type: 2}
+  - {fileID: 11400000, guid: e4582ec415b458441b155d183002a848, type: 2}
+  - {fileID: 11400000, guid: b946ae3254adc764baa1bd8561d17972, type: 2}
+  - {fileID: 11400000, guid: 6c7b256dc5a76154280e4adfb1144360, type: 2}
+  - {fileID: 11400000, guid: 3f4144a20fc38bc4c8ec644e044cf2c9, type: 2}
